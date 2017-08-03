@@ -1,0 +1,36 @@
+/*Main Background Div*/
+#domMain{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-repeat
+	max-width: 100%;
+
+}
+
+/*--------------------------------------------------------------------*/
+
+.Navbar{
+	
+	margin-bottom: 0;
+	max-width:100%;
+}
+
+.giphy-embed{
+    margin: 0;
+    padding-top: 10px;
+
+    
+}
+.menu-btn {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    text-align: center;
+}
+
+.nav>li>a:hover {
+    background-color: darkturquoise;
+    color: white;
+}
+
+/*--------------------------------------------------------------------*/
