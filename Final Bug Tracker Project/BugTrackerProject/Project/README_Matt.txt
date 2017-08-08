@@ -3,7 +3,7 @@ Setup:
 - Firstly, run npm install to install all the relevant node_modules as dictated by the package.json file.
 - This application is running on an Express server, so you'll need to run express in the folder containing the REST-API within the project folder. The reason for this is that future enhancements would 
 allow for a full API to be implemented, running on the express server, taking commands and ideally pulling/pushing data from/to a mongo database. 
-
+- Finally run 'npm start'
 
 Progress:
 - so far through the development of this application, the app will pull all the relevant (structured) data from the supplied Bugs.JSON file as a list (to the BugsListStore).
